@@ -1,107 +1,86 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "maurer-, fliesenleger- & verlegewerkzeuge",
+        "name": "Maurer-, Fliesenleger- & Verlegewerkzeuge",
+        "slug": "maurer-fliesenleger-verlegewerkzeuge",
+        "productCategory": "Maurer-, Fliesenleger- & Verlegewerkzeuge",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "handsägen & feilen",
+        "name": "Handsägen & Feilen",
+        "slug": "handsagen-feilen",
+        "productCategory": "Handsägen & Feilen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "messer & scheren",
+        "name": "Messer & Scheren",
+        "slug": "messer-scheren",
+        "productCategory": "Messer & Scheren",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "prüfwerkzeuge & messwerkzeuge",
+        "name": "Prüfwerkzeuge & Messwerkzeuge",
+        "slug": "prufwerkzeuge-messwerkzeuge",
+        "productCategory": "Prüfwerkzeuge & Messwerkzeuge",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "schlüssel & abzieher",
+        "name": "Schlüssel & Abzieher",
+        "slug": "schlussel-abzieher",
+        "productCategory": "Schlüssel & Abzieher",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "zangen",
+        "name": "Zangen",
+        "slug": "zangen",
+        "productCategory": "Zangen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "hobel & beitel",
+        "name": "Hobel & Beitel",
+        "slug": "hobel-beitel",
+        "productCategory": "Hobel & Beitel",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "spannwerkzeuge",
+        "name": "Spannwerkzeuge",
+        "slug": "spannwerkzeuge",
+        "productCategory": "Spannwerkzeuge",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "äxte & hämmer",
+        "name": "Äxte & Hämmer",
+        "slug": "axte-hammer",
+        "productCategory": "Äxte & Hämmer",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "nageleisen & meißel",
+        "name": "Nageleisen & Meißel",
+        "slug": "nageleisen-meissel",
+        "productCategory": "Nageleisen & Meißel",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "schraubenzieher & schraubendreher",
+        "name": "Schraubenzieher & Schraubendreher",
+        "slug": "schraubenzieher-schraubendreher",
+        "productCategory": "Schraubenzieher & Schraubendreher",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
-        "subCategories": []
-    },
-    {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
-        "subCategories": []
-    },
-    {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "schmierstoffe",
+        "name": "Schmierstoffe",
+        "slug": "schmierstoffe",
+        "productCategory": "Schmierstoffe",
         "subCategories": []
     }
 ]

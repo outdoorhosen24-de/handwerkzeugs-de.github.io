@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
         "key": "sonstige",
@@ -21,13 +21,6 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
-    },
-    {
         "key": "obi",
         "name": "OBI",
         "slug": "obi",
@@ -35,52 +28,73 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "laserliner",
+        "name": "Laserliner",
+        "slug": "laserliner",
+        "productCategory": "Laserliner",
+        "localThumb": "/assets/images/hersteller/laserliner.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "bosch professional",
+        "name": "Bosch Professional",
+        "slug": "bosch-professional",
+        "productCategory": "Bosch Professional",
+        "localThumb": "/assets/images/hersteller/bosch-professional.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "proxxon",
+        "name": "Proxxon",
+        "slug": "proxxon",
+        "productCategory": "Proxxon",
+        "localThumb": "/assets/images/hersteller/proxxon.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "wolfcraft",
+        "name": "Wolfcraft",
+        "slug": "wolfcraft",
+        "productCategory": "Wolfcraft",
+        "localThumb": "/assets/images/hersteller/wolfcraft.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "langfit",
+        "name": "Langfit",
+        "slug": "langfit",
+        "productCategory": "Langfit",
+        "localThumb": "/assets/images/hersteller/langfit.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "famex",
+        "name": "Famex",
+        "slug": "famex",
+        "productCategory": "Famex",
+        "localThumb": "/assets/images/hersteller/famex.webp"
+    },
+    {
+        "key": "küpper",
+        "name": "Küpper",
+        "slug": "kuepper",
+        "productCategory": "Küpper",
+        "localThumb": "/assets/images/hersteller/kuepper.webp"
+    },
+    {
+        "key": "knipex",
+        "name": "Knipex",
+        "slug": "knipex",
+        "productCategory": "Knipex",
+        "localThumb": "/assets/images/hersteller/knipex.webp"
+    },
+    {
+        "key": "ernst",
+        "name": "Ernst",
+        "slug": "ernst",
+        "productCategory": "Ernst",
+        "localThumb": "/assets/images/hersteller/ernst.webp"
     }
 ]
