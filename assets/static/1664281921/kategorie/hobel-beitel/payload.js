@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/hobel-beitel", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-stechbeitel-satz-4-teilig-classic-lux-tools-8035511-1.jpg":"\u002Fassets\u002Fimages\u002Flux-stechbeitel-satz-4-teilig-classic-lux-tools-8035511-1.webp"}}],fetch:{},mutations:void 0});

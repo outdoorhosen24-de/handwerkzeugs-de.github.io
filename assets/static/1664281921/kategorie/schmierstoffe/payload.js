@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/schmierstoffe", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ernst-bohr-und-schneidoel-ultra-100-ml-ernst-1812262-1.jpg":"\u002Fassets\u002Fimages\u002Fernst-bohr-und-schneidoel-ultra-100-ml-ernst-1812262-1.webp"}}],fetch:{},mutations:void 0});
