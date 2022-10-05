@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/knipex", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/knipex-rohrzange-cobra-grau-atramentiert-150-mm-knipex-2925865-1.jpg":"\u002Fassets\u002Fimages\u002Fknipex-rohrzange-cobra-grau-atramentiert-150-mm-knipex-2925865-1.webp"}}],fetch:{},mutations:void 0});

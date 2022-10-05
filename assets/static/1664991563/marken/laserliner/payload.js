@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/laserliner", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/laserliner-starfinder-elektronisches-ortungsgeraet-laserliner-1429158-1.jpg":"\u002Fassets\u002Fimages\u002Flaserliner-starfinder-elektronisches-ortungsgeraet-laserliner-1429158-1.webp"}}],fetch:{},mutations:void 0});
