@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "handwerkzeugs.de",
+    "hostname": "https://www.handwerkzeugs.de/",
+    "email": "handwerkzeugs.desurrealnetworks.io",
+    "organization": "handwerkzeugs.de",
+    "logoText": "Handwerkzeugs.de",
+    "title": "Handwerkzeuge",
+    "subline": "Der Online Shop f\u00fcr Handwerkzeuge",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5212360",
+        "2012557",
+        "1466465",
+        "6375893",
+        "5601604",
+        "2102812"
+    ],
+    "winnerProducts": [
+        "5415039",
+        "2901858",
+        "5268883"
+    ],
+    "featuredCategories": [
+        "Schl\u00fcssel & Abzieher",
+        "Messer & Scheren",
+        "Pr\u00fcfwerkzeuge & Messwerkzeuge",
+        "Maurer-, Fliesenleger- & Verlegewerkzeuge",
+        "Pr\u00fcfwerkzeuge & Messwerkzeuge",
+        "Hands\u00e4gen & Feilen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Handwerkzeuge",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Werkzeugkiste ist ein Fachgesch\u00e4ft f\u00fcr Handwerkzeuge aller Art. Hier finden Sie hochwertige Werkzeuge f\u00fcr jeden Anwendungsbereich. Vom einfachen Hammer bis zum komplexen CNC-Fr\u00e4ser ist alles vorr\u00e4tig. Auch f\u00fcr Spezialanwendungen wie Schmuckherstellung oder Uhrmacherwerkzeuge finden Sie hier das passende Werkzeug.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Handwerkzeuge - Die besten Werkzeuge f\u00fcr Ihr Handwerk!",
+            "metaDescription": "Im Handwerkszeugshop findest du alles, was du f\u00fcr dein n\u00e4chstes Projekt brauchst. Vom Bohrer bis zur S\u00e4ge - wir haben das richtige Werkzeug f\u00fcr dich.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Handwerkzeuge: Die besten Werkzeuge f\u00fcr Ihr Handwerk",
+                    "text": "Das Handwerkzeug ist ein unerl\u00e4ssliches Hilfsmittel f\u00fcr den Handwerker. Es erleichtert die Arbeit und erm\u00f6glicht es dem Handwerker, pr\u00e4zise und schnelle Arbeiten auszuf\u00fchren. Die Handwerkzeuge sind in verschiedenen Ausf\u00fchrungen und Gr\u00f6\u00dfen erh\u00e4ltlich. Sie k\u00f6nnen je nach Bedarf des Handwerkers ausgew\u00e4hlt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausf\u00fchrungen erh\u00e4ltlich. Die Handwerkzeuge k\u00f6nnen je nach Bedarf des Handwerkers ausgew\u00e4hlt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausf\u00fchrungen erh\u00e4ltlich. Die Handwerkzeuge k\u00f6nnen je nach Bedarf des Handwerkers ausgew\u00e4hlt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausf\u00fchrungen erh\u00e4ltlich. Die Handwerkzeuge k\u00f6nnen je nach Bedarf des Handwerkers ausgew\u00e4hlt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausf\u00fchrungen erh\u00e4ltlich. Die Handwerkzeuge k\u00f6nnen je nach Bedarf des Handwerkers ausgew\u00e4hlt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handw"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Handwerkzeuge Shop",
+            "metaDescription": "Im Shop findest du Handwerkzeuge f\u00fcr jeden Anwendungsbereich. Vom Bohrer \u00fcber die S\u00e4ge bis zum Schraubenzieher - wir haben das passende Werkzeug f\u00fcr dich.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Handwerkzeuge - Manufacturer",
+            "metaDescription": "Handwerkzeuge vom f\u00fchrenden Hersteller. Hochwertige Handwerkzeuge f\u00fcr Profis und ambitionierte Heimwerker. Kostenloser Versand ab 50\u20ac.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT - Handwerkzeuge f\u00fcr jeden Job",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das perfekte Handwerkzeug f\u00fcr $KATEGORIE. \u00dcberzeugen Sie sich selbst!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Handwerkzeuge f\u00fcr die perfekte Arbeit",
+        "defaultMetaDescription": "$KATEGORIE - Handwerkzeuge f\u00fcr jeden Bedarf. Vom einfachen Hammer bis zur komplexen Maschine.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Handwerkzeugen. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Werkzeugen f\u00fcr jeden Bedarf.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Handwerkzeuge",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Handwerkzeuge Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Handwerkzeuge Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
