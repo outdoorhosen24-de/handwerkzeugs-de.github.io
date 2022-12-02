@@ -51,12 +51,15 @@
             "title": "Handwerkzeuge - Die besten Werkzeuge für Ihr Handwerk!",
             "metaDescription": "Im Handwerkszeugshop findest du alles, was du für dein nächstes Projekt brauchst. Vom Bohrer bis zur Säge - wir haben das richtige Werkzeug für dich.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Handwerkzeuge: Die besten Werkzeuge für Ihr Handwerk",
-                    "text": "Das Handwerkzeug ist ein unerlässliches Hilfsmittel für den Handwerker. Es erleichtert die Arbeit und ermöglicht es dem Handwerker, präzise und schnelle Arbeiten auszuführen. Die Handwerkzeuge sind in verschiedenen Ausführungen und Größen erhältlich. Sie können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handw"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Handwerkzeuge: Die besten Werkzeuge für Ihr Handwerk",
+                        "text": "Das Handwerkzeug ist ein unerlässliches Hilfsmittel für den Handwerker. Es erleichtert die Arbeit und ermöglicht es dem Handwerker, präzise und schnelle Arbeiten auszuführen. Die Handwerkzeuge sind in verschiedenen Ausführungen und Größen erhältlich. Sie können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handw"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Handwerkzeuge Shop",
