@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "handwerkzeugs.de",
     "hostname": "https://www.handwerkzeugs.de/",
     "email": "handwerkzeugs.de@surrealnetworks.io",
     "organization": "handwerkzeugs.de",
     "logoText": "Handwerkzeugs.de",
     "title": "Handwerkzeuge",
-    "subline": "Der Online Shop für Handwerkzeuge",
+    "subline": "Der Online Shop für jeden Heimwerker",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Handwerkzeuge",
-        "featureText": "Die Werkzeugkiste ist ein Fachgeschäft für Handwerkzeuge aller Art. Hier finden Sie hochwertige Werkzeuge für jeden Anwendungsbereich. Vom einfachen Hammer bis zum komplexen CNC-Fräser ist alles vorrätig. Auch für Spezialanwendungen wie Schmuckherstellung oder Uhrmacherwerkzeuge finden Sie hier das passende Werkzeug.",
+        "featureText": "Herzlich Willkommen in unserem Shop. Wir bieten Ihnen ein breites Sortiment an Handwerkzeugen für jeden Anwendungsbereich. Hochwertige Produkte, faire Preise, übersichtlich dargestellt in Kategorien. Bei uns werden Sie schnell fündig! Klicken Sie sich durch unser Sortiment und überzeugen Sie sich selbst!",
         "index": {
-            "title": "Handwerkzeuge - Die besten Werkzeuge für Ihr Handwerk!",
-            "metaDescription": "Im Handwerkszeugshop findest du alles, was du für dein nächstes Projekt brauchst. Vom Bohrer bis zur Säge - wir haben das richtige Werkzeug für dich.",
+            "title": "Handwerkzeuge | Top Produkte günstig kaufen ",
+            "metaDescription": "Bei uns finden Sie eine riesige Auswahl an Handwerkzeugen wie: Schraubenzieher, Zange, Axt, Säge, Messer, Hobel, Werkzeuge für Maurer- und Fliesenarbeiten uvm.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Handwerkzeuge Shop",
-            "metaDescription": "Im Shop findest du Handwerkzeuge für jeden Anwendungsbereich. Vom Bohrer über die Säge bis zum Schraubenzieher - wir haben das passende Werkzeug für dich.",
+            "title": "Online Shop für Handwerkzeuge",
+            "metaDescription": "Handwerkzeugen wie: Schraubenzieher, Hammer, Axt, Säge, Messer, Spachtel, Zange etc. bequem und günstig bestellen - schnelle Lieferung.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Handwerkzeuge - Manufacturer",
-            "metaDescription": "Handwerkzeuge vom führenden Hersteller. Hochwertige Handwerkzeuge für Profis und ambitionierte Heimwerker. Kostenloser Versand ab 50€.",
+            "title": "Handwerkzeuge | Top Marken",
+            "metaDescription": "Hier finden Sie eine Auflistung unserer Top Marken wie: BOSCH Professional, Proxxon, OBI, LUX-Tools uvm. | hohe Qualität für langanhaltende Freude am Produkt.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT - Handwerkzeuge für jeden Job",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das perfekte Handwerkzeug für $KATEGORIE. Überzeugen Sie sich selbst!",
+        "defaultTitle": "$PRODUKT günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - ein Top Produkt zum Top Preis. Finden Sie bei uns weitere tolle Produkte in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Handwerkzeuge für die perfekte Arbeit",
-        "defaultMetaDescription": "$KATEGORIE - Handwerkzeuge für jeden Bedarf. Vom einfachen Hammer bis zur komplexen Maschine.",
+        "defaultTitle": "$KATEGORIE | günstig online kaufen",
+        "defaultMetaDescription": "$KATEGORIE - Handwerkzeuge für jeden Anwendungsbereich. Viele tolle Produkte aus Kategorien wie: $KATEGORIE, Schraubenzieher, Hammer, Axt, Säge, Messer, uvm.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Handwerkzeugen. Wir bieten eine große Auswahl an hochwertigen Werkzeugen für jeden Bedarf.",
+        "defaultTitle": "Handwerkzeug von $HERSTELLER",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Handwerkzeugen. Produkte mit hoher Qualität steigern die Freude bei der Arbeit.",
         "defaultRobots": "index, follow",
         "brands": [
             {
