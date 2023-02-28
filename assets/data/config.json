@@ -52,11 +52,59 @@
             "metaDescription": "Bei uns finden Sie eine riesige Auswahl an Handwerkzeugen wie: Schraubenzieher, Zange, Axt, Säge, Messer, Hobel, Werkzeuge für Maurer- und Fliesenarbeiten uvm.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Handwerkzeuge: Die besten Werkzeuge für Ihr Handwerk",
-                        "text": "Das Handwerkzeug ist ein unerlässliches Hilfsmittel für den Handwerker. Es erleichtert die Arbeit und ermöglicht es dem Handwerker, präzise und schnelle Arbeiten auszuführen. Die Handwerkzeuge sind in verschiedenen Ausführungen und Größen erhältlich. Sie können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handwerkzeuge sind in verschiedenen Ausführungen erhältlich. Die Handwerkzeuge können je nach Bedarf des Handwerkers ausgewählt werden. Die Handwerkzeuge sind aus hochwertigen Materialien gefertigt und langlebig.\n\nDie Handw"
+                        "title": "Willkommen bei Handwerkzeugs.de",
+                        "text": "Wir bei Handwerkzeugs.de sind stolz darauf, Ihnen eine umfassende Auswahl an hochwertigen Handwerkzeugen anzubieten. Unser Sortiment umfasst alles, von Maurer-, Fliesenleger- und Verlegewerkzeugen bis hin zu Handsägen, Feilen, Messern und Scheren. Wir bieten auch Prüfwerkzeuge und Messwerkzeuge, Schlüssel und Abzieher, Zangen, Hobel und Beitel, Spannwerkzeuge, Äxte und Hämmer sowie Nageleisen und Meißel. Unser Ziel ist es, Ihnen die besten Werkzeuge zur Verfügung zu stellen, damit Sie Ihre Projekte schnell und effizient umsetzen können. Besuchen Sie uns jetzt und entdecken Sie die besten Handwerkzeuge, die Sie online kaufen können."
+                    },
+                    {
+                        "title": "Maurer-, Fliesenleger- & Verlegewerkzeuge",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/maurer-,-fliesenleger--verlegewerkzeuge/\" title=\"Maurer-, Fliesenleger- & Verlegewerkzeuge\">Maurer-, Fliesenleger- & Verlegewerkzeuge</a> finden Sie alles, was Sie für Ihre nächste Bau- oder Renovierungsarbeit benötigen. Von Fliesenschneidern und Verlegehilfen bis hin zu Zementmischern und Winkelmessern - wir bieten eine große Auswahl an hochwertigen Werkzeugen für jeden Bedarf. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
+                    },
+                    {
+                        "title": "Handsägen & Feilen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/handsaegen-feilen/\" title=\"Handsägen & Feilen\">Handsägen & Feilen</a> finden Sie eine große Auswahl an hochwertigen Werkzeugen für alle Ihre Holzbearbeitungsprojekte. Von Hand- und Stichsägen bis hin zu Feilen und Schleifpapier - wir bieten alles, was Sie benötigen, um professionelle Ergebnisse zu erzielen. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
+                    },
+                    {
+                        "title": "Messer & Scheren",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/messer-scheren/\" title=\"Messer & Scheren\">Messer & Scheren</a> finden Sie eine große Auswahl an hochwertigen Werkzeugen für alle Ihre Schneidearbeiten. Von Küchenmessern und Papierschneidern bis hin zu Gartenscheren und Bastelmessern - wir bieten alles, was Sie benötigen, um präzise und saubere Schnitte zu erzielen. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
+                    },
+                    {
+                        "title": "Prüfwerkzeuge & Messwerkzeuge",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/pruefwerkzeuge-messwerkzeuge/\" title=\"Prüfwerkzeuge & Messwerkzeuge\">Prüfwerkzeuge & Messwerkzeuge</a> finden Sie eine große Auswahl an Werkzeugen, die Ihnen bei der Durchführung präziser Messungen und Überprüfungen im Handwerk unterstützen. Hier finden Sie alles, von einfachen Messgeräten wie Maßbändern und Winkelmessern bis hin zu elektronischen Messinstrumenten wie Laser-Entfernungsmessern. Wir bieten Ihnen nur hochwertige Produkte von namhaften Herstellern zu fairen Preisen an."
+                    },
+                    {
+                        "title": "Schlüssel & Abzieher",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/schluessel-abzieher/\" title=\"Schlüssel & Abzieher\">Schlüssel & Abzieher</a> finden Sie eine Vielzahl an Werkzeugen, die Ihnen bei Reparatur- und Montagearbeiten im Handwerk unterstützen. Hier finden Sie alles, von einfachen Schraubenschlüsseln und Ringschlüsseln bis hin zu Spezialwerkzeugen wie Nuss- und Stecknüssen. Wir bieten Ihnen nur hochwertige Produkte von namhaften Herstellern zu fairen Preisen an."
+                    },
+                    {
+                        "title": "Zangen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/zangen/\" title=\"Zangen\">Zangen</a> finden Sie eine große Auswahl an hochwertigen Zangen für verschiedene Anwendungen im Handwerk. Hier finden Sie alles, von einfachen Seitenschneiderzangen und Kombizangen bis hin zu Spezialzangen wie Rundzangen und Kabelzangen. Wir bieten Ihnen nur Produkte von namhaften Herstellern zu fairen Preisen an, damit Sie immer das richtige Werkzeug für Ihre Aufgaben zur Verfügung haben."
+                    },
+                    {
+                        "title": "Hobel & Beitel",
+                        "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/hobel-beitel/\" title=\"Hobel & Beitel\">Hobel & Beitel</a>n im Online-Shop von Handwerkzeugs.de. Ob Sie professionelle Handwerker oder Heimwerker sind, bei uns finden Sie das passende Werkzeug für jedes Projekt. Unsere Hobel & Beitel sind hochwertig und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Spannwerkzeuge",
+                        "text": "In unserem Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/spannwerkzeuge/\" title=\"Spannwerkzeuge\">Spannwerkzeuge</a>n für alle Ihre Bedürfnisse. Ob Sie einen Schraubstock, eine Spannzange oder eine andere Art von Spannwerkzeug benötigen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unsere Spannwerkzeuge sind robust und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Äxte & Hämmer",
+                        "text": "Entdecken Sie eine große Auswahl an Äxten & Hämmern im Online-Shop von Handwerkzeugs.de. Unsere <a href=\"/kategorie/aexte-haemmer/\" title=\"Äxte & Hämmer\">Äxte & Hämmer</a> sind hochwertig und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Ob Sie eine Axt für das Holzhacken oder einen Hammer für Ihr Heimwerkerprojekt benötigen, bei uns finden Sie das passende Werkzeug. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Nageleisen & Meißel",
+                        "text": "<a href=\"/kategorie/nageleisen-meißel/\" title=\"Nageleisen & Meißel\">Nageleisen & Meißel</a> sind wichtige Werkzeuge für Holzarbeiten und das Bauen von Möbeln. Unsere Auswahl an Nageleisen & Meißeln bietet Ihnen hochwertige und langlebige Werkzeuge, die Sie bei Ihren Projekten unterstützen werden. Stöbern Sie durch unsere Produkte und finden Sie das perfekte Nageleisen & Meißel für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Schraubenzieher & Schraubendreher",
+                        "text": "<a href=\"/kategorie/schraubenzieher-schraubendreher/\" title=\"Schraubenzieher & Schraubendreher\">Schraubenzieher & Schraubendreher</a> sind unverzichtbare Werkzeuge für jeden Heimwerker oder Handwerker. Unsere Auswahl an Schraubenziehern & Schraubendrehern bietet Ihnen eine große Vielfalt an Größen und Formen, um jedes Schraubengewinde zu erreichen. Entdecken Sie die hochwertigen und langlebigen Schraubenzieher & Schraubendreher in unserem Shop."
+                    },
+                    {
+                        "title": "Schmierstoffe",
+                        "text": "<a href=\"/kategorie/schmierstoffe/\" title=\"Schmierstoffe\">Schmierstoffe</a> sind ein wichtiger Bestandteil jeder Werkstatt. Sie verhindern Reibung und Abnutzung von Werkzeugen und Maschinen. In unserem Shop finden Sie eine große Auswahl an Schmierstoffen, von Ölen bis hin zu Fetten und Sprays. Entdecken Sie die besten Schmierstoffe für Ihre Bedürfnisse und halten Sie Ihre Werkzeuge und Maschinen in Top-Zustand."
                     }
                 ]
             }
