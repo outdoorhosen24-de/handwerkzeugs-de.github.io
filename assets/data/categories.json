@@ -9,7 +9,7 @@
     {
         "key": "handsägen & feilen",
         "name": "Handsägen & Feilen",
-        "slug": "handsagen-feilen",
+        "slug": "handsaegen-feilen",
         "productCategory": "Handsägen & Feilen",
         "subCategories": []
     },
@@ -23,14 +23,14 @@
     {
         "key": "prüfwerkzeuge & messwerkzeuge",
         "name": "Prüfwerkzeuge & Messwerkzeuge",
-        "slug": "prufwerkzeuge-messwerkzeuge",
+        "slug": "pruefwerkzeuge-messwerkzeuge",
         "productCategory": "Prüfwerkzeuge & Messwerkzeuge",
         "subCategories": []
     },
     {
         "key": "schlüssel & abzieher",
         "name": "Schlüssel & Abzieher",
-        "slug": "schlussel-abzieher",
+        "slug": "schluessel-abzieher",
         "productCategory": "Schlüssel & Abzieher",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "äxte & hämmer",
         "name": "Äxte & Hämmer",
-        "slug": "axte-hammer",
+        "slug": "aexte-haemmer",
         "productCategory": "Äxte & Hämmer",
         "subCategories": []
     },
