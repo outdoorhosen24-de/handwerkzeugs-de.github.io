@@ -1,248 +1,255 @@
 {
-  "configIsReady": true,
-  "domain": "handwerkzeugs.de",
-  "hostname": "https://www.handwerkzeugs.de/",
-  "email": "handwerkzeugs.de@surrealnetworks.io",
-  "organization": "handwerkzeugs.de",
-  "logoText": "Handwerkzeugs.de",
-  "title": "Handwerkzeuge",
-  "subline": "Der Online Shop für jeden Heimwerker",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5212360",
-    "2012557",
-    "1466465",
-    "6375893",
-    "5601604",
-    "2102812"
-  ],
-  "winnerProducts": [
-    "5415039",
-    "2901858",
-    "5268883"
-  ],
-  "featuredCategories": [
-    "Schlüssel & Abzieher",
-    "Messer & Scheren",
-    "Prüfwerkzeuge & Messwerkzeuge",
-    "Maurer-, Fliesenleger- & Verlegewerkzeuge",
-    "Prüfwerkzeuge & Messwerkzeuge",
-    "Handsägen & Feilen"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Handwerkzeuge",
-    "featureText": "Herzlich Willkommen in unserem Shop. Wir bieten Ihnen ein breites Sortiment an Handwerkzeugen für jeden Anwendungsbereich. Hochwertige Produkte, faire Preise, übersichtlich dargestellt in Kategorien. Bei uns werden Sie schnell fündig! Klicken Sie sich durch unser Sortiment und überzeugen Sie sich selbst!",
-    "index": {
-      "title": "Handwerkzeuge | Top Produkte günstig kaufen ",
-      "metaDescription": "Bei uns finden Sie eine riesige Auswahl an Handwerkzeugen wie: Schraubenzieher, Zange, Axt, Säge, Messer, Hobel, Werkzeuge für Maurer- und Fliesenarbeiten uvm.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Handwerkzeugs.de",
-            "text": "Wir bei Handwerkzeugs.de sind stolz darauf, Ihnen eine umfassende Auswahl an hochwertigen Handwerkzeugen anzubieten. Unser Sortiment umfasst alles, von Maurer-, Fliesenleger- und Verlegewerkzeugen bis hin zu Handsägen, Feilen, Messern und Scheren. Wir bieten auch Prüfwerkzeuge und Messwerkzeuge, Schlüssel und Abzieher, Zangen, Hobel und Beitel, Spannwerkzeuge, Äxte und Hämmer sowie Nageleisen und Meißel. Unser Ziel ist es, Ihnen die besten Werkzeuge zur Verfügung zu stellen, damit Sie Ihre Projekte schnell und effizient umsetzen können. Besuchen Sie uns jetzt und entdecken Sie die besten Handwerkzeuge, die Sie online kaufen können."
-          },
-          {
-            "title": "Maurer-, Fliesenleger- & Verlegewerkzeuge",
-            "text": "In unserer Kategorie <a href=\"/kategorie/maurer-fliesenleger-verlegewerkzeuge/\" title=\"Maurer-, Fliesenleger- & Verlegewerkzeuge\">Maurer-, Fliesenleger- & Verlegewerkzeuge</a> finden Sie alles, was Sie für Ihre nächste Bau- oder Renovierungsarbeit benötigen. Von Fliesenschneidern und Verlegehilfen bis hin zu Zementmischern und Winkelmessern - wir bieten eine große Auswahl an hochwertigen Werkzeugen für jeden Bedarf. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
-          },
-          {
-            "title": "Handsägen & Feilen",
-            "text": "In unserer Kategorie <a href=\"/kategorie/handsaegen-feilen/\" title=\"Handsägen & Feilen\">Handsägen & Feilen</a> finden Sie eine große Auswahl an hochwertigen Werkzeugen für alle Ihre Holzbearbeitungsprojekte. Von Hand- und Stichsägen bis hin zu Feilen und Schleifpapier - wir bieten alles, was Sie benötigen, um professionelle Ergebnisse zu erzielen. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
-          },
-          {
-            "title": "Messer & Scheren",
-            "text": "In unserer Kategorie <a href=\"/kategorie/messer-scheren/\" title=\"Messer & Scheren\">Messer & Scheren</a> finden Sie eine große Auswahl an hochwertigen Werkzeugen für alle Ihre Schneidearbeiten. Von Küchenmessern und Papierschneidern bis hin zu Gartenscheren und Bastelmessern - wir bieten alles, was Sie benötigen, um präzise und saubere Schnitte zu erzielen. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
-          },
-          {
-            "title": "Prüfwerkzeuge & Messwerkzeuge",
-            "text": "In unserer Kategorie <a href=\"/kategorie/pruefwerkzeuge-messwerkzeuge/\" title=\"Prüfwerkzeuge & Messwerkzeuge\">Prüfwerkzeuge & Messwerkzeuge</a> finden Sie eine große Auswahl an Werkzeugen, die Ihnen bei der Durchführung präziser Messungen und Überprüfungen im Handwerk unterstützen. Hier finden Sie alles, von einfachen Messgeräten wie Maßbändern und Winkelmessern bis hin zu elektronischen Messinstrumenten wie Laser-Entfernungsmessern. Wir bieten Ihnen nur hochwertige Produkte von namhaften Herstellern zu fairen Preisen an."
-          },
-          {
-            "title": "Schlüssel & Abzieher",
-            "text": "In unserer Kategorie <a href=\"/kategorie/schluessel-abzieher/\" title=\"Schlüssel & Abzieher\">Schlüssel & Abzieher</a> finden Sie eine Vielzahl an Werkzeugen, die Ihnen bei Reparatur- und Montagearbeiten im Handwerk unterstützen. Hier finden Sie alles, von einfachen Schraubenschlüsseln und Ringschlüsseln bis hin zu Spezialwerkzeugen wie Nuss- und Stecknüssen. Wir bieten Ihnen nur hochwertige Produkte von namhaften Herstellern zu fairen Preisen an."
-          },
-          {
-            "title": "Zangen",
-            "text": "In unserer Kategorie <a href=\"/kategorie/zangen/\" title=\"Zangen\">Zangen</a> finden Sie eine große Auswahl an hochwertigen Zangen für verschiedene Anwendungen im Handwerk. Hier finden Sie alles, von einfachen Seitenschneiderzangen und Kombizangen bis hin zu Spezialzangen wie Rundzangen und Kabelzangen. Wir bieten Ihnen nur Produkte von namhaften Herstellern zu fairen Preisen an, damit Sie immer das richtige Werkzeug für Ihre Aufgaben zur Verfügung haben."
-          },
-          {
-            "title": "Hobel & Beitel",
-            "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/hobel-beitel/\" title=\"Hobel & Beitel\">Hobel & Beitel</a>n im Online-Shop von Handwerkzeugs.de. Ob Sie professionelle Handwerker oder Heimwerker sind, bei uns finden Sie das passende Werkzeug für jedes Projekt. Unsere Hobel & Beitel sind hochwertig und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Spannwerkzeuge",
-            "text": "In unserem Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/spannwerkzeuge/\" title=\"Spannwerkzeuge\">Spannwerkzeuge</a>n für alle Ihre Bedürfnisse. Ob Sie einen Schraubstock, eine Spannzange oder eine andere Art von Spannwerkzeug benötigen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unsere Spannwerkzeuge sind robust und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Äxte & Hämmer",
-            "text": "Entdecken Sie eine große Auswahl an Äxten & Hämmern im Online-Shop von Handwerkzeugs.de. Unsere <a href=\"/kategorie/aexte-haemmer/\" title=\"Äxte & Hämmer\">Äxte & Hämmer</a> sind hochwertig und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Ob Sie eine Axt für das Holzhacken oder einen Hammer für Ihr Heimwerkerprojekt benötigen, bei uns finden Sie das passende Werkzeug. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Nageleisen & Meißel",
-            "text": "<a href=\"/kategorie/nageleisen-meissel/\" title=\"Nageleisen & Meissel\">Nageleisen & Meissel</a> sind wichtige Werkzeuge für Holzarbeiten und das Bauen von Möbeln. Unsere Auswahl an Nageleisen & Meißeln bietet Ihnen hochwertige und langlebige Werkzeuge, die Sie bei Ihren Projekten unterstützen werden. Stöbern Sie durch unsere Produkte und finden Sie das perfekte Nageleisen & Meißel für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Schraubenzieher & Schraubendreher",
-            "text": "<a href=\"/kategorie/schraubenzieher-schraubendreher/\" title=\"Schraubenzieher & Schraubendreher\">Schraubenzieher & Schraubendreher</a> sind unverzichtbare Werkzeuge für jeden Heimwerker oder Handwerker. Unsere Auswahl an Schraubenziehern & Schraubendrehern bietet Ihnen eine große Vielfalt an Größen und Formen, um jedes Schraubengewinde zu erreichen. Entdecken Sie die hochwertigen und langlebigen Schraubenzieher & Schraubendreher in unserem Shop."
-          },
-          {
-            "title": "Schmierstoffe",
-            "text": "<a href=\"/kategorie/schmierstoffe/\" title=\"Schmierstoffe\">Schmierstoffe</a> sind ein wichtiger Bestandteil jeder Werkstatt. Sie verhindern Reibung und Abnutzung von Werkzeugen und Maschinen. In unserem Shop finden Sie eine große Auswahl an Schmierstoffen, von Ölen bis hin zu Fetten und Sprays. Entdecken Sie die besten Schmierstoffe für Ihre Bedürfnisse und halten Sie Ihre Werkzeuge und Maschinen in Top-Zustand."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "handwerkzeugs.de",
+    "hostname": "https://www.handwerkzeugs.de/",
+    "email": "handwerkzeugs.de@surrealnetworks.io",
+    "organization": "handwerkzeugs.de",
+    "logoText": "Handwerkzeugs.de",
+    "title": "Handwerkzeuge",
+    "subline": "Der Online Shop für jeden Heimwerker",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5212360",
+        "2012557",
+        "1466465",
+        "6375893",
+        "5601604",
+        "2102812"
+    ],
+    "winnerProducts": [
+        "5415039",
+        "2901858",
+        "5268883"
+    ],
+    "featuredCategories": [
+        "Schlüssel & Abzieher",
+        "Messer & Scheren",
+        "Prüfwerkzeuge & Messwerkzeuge",
+        "Maurer-, Fliesenleger- & Verlegewerkzeuge",
+        "Prüfwerkzeuge & Messwerkzeuge",
+        "Handsägen & Feilen"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Handwerkzeuge",
+        "featureText": "Herzlich Willkommen in unserem Shop. Wir bieten Ihnen ein breites Sortiment an Handwerkzeugen für jeden Anwendungsbereich. Hochwertige Produkte, faire Preise, übersichtlich dargestellt in Kategorien. Bei uns werden Sie schnell fündig! Klicken Sie sich durch unser Sortiment und überzeugen Sie sich selbst!",
+        "index": {
+            "title": "Handwerkzeuge | Top Produkte günstig kaufen ",
+            "metaDescription": "Bei uns finden Sie eine riesige Auswahl an Handwerkzeugen wie: Schraubenzieher, Zange, Axt, Säge, Messer, Hobel, Werkzeuge für Maurer- und Fliesenarbeiten uvm.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Handwerkzeugs.de",
+                        "text": "Wir bei Handwerkzeugs.de sind stolz darauf, Ihnen eine umfassende Auswahl an hochwertigen Handwerkzeugen anzubieten. Unser Sortiment umfasst alles, von Maurer-, Fliesenleger- und Verlegewerkzeugen bis hin zu Handsägen, Feilen, Messern und Scheren. Wir bieten auch Prüfwerkzeuge und Messwerkzeuge, Schlüssel und Abzieher, Zangen, Hobel und Beitel, Spannwerkzeuge, Äxte und Hämmer sowie Nageleisen und Meißel. Unser Ziel ist es, Ihnen die besten Werkzeuge zur Verfügung zu stellen, damit Sie Ihre Projekte schnell und effizient umsetzen können. Besuchen Sie uns jetzt und entdecken Sie die besten Handwerkzeuge, die Sie online kaufen können."
+                    },
+                    {
+                        "title": "Maurer-, Fliesenleger- & Verlegewerkzeuge",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/maurer-fliesenleger-verlegewerkzeuge/\" title=\"Maurer-, Fliesenleger- & Verlegewerkzeuge\">Maurer-, Fliesenleger- & Verlegewerkzeuge</a> finden Sie alles, was Sie für Ihre nächste Bau- oder Renovierungsarbeit benötigen. Von Fliesenschneidern und Verlegehilfen bis hin zu Zementmischern und Winkelmessern - wir bieten eine große Auswahl an hochwertigen Werkzeugen für jeden Bedarf. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
+                    },
+                    {
+                        "title": "Handsägen & Feilen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/handsaegen-feilen/\" title=\"Handsägen & Feilen\">Handsägen & Feilen</a> finden Sie eine große Auswahl an hochwertigen Werkzeugen für alle Ihre Holzbearbeitungsprojekte. Von Hand- und Stichsägen bis hin zu Feilen und Schleifpapier - wir bieten alles, was Sie benötigen, um professionelle Ergebnisse zu erzielen. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
+                    },
+                    {
+                        "title": "Messer & Scheren",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/messer-scheren/\" title=\"Messer & Scheren\">Messer & Scheren</a> finden Sie eine große Auswahl an hochwertigen Werkzeugen für alle Ihre Schneidearbeiten. Von Küchenmessern und Papierschneidern bis hin zu Gartenscheren und Bastelmessern - wir bieten alles, was Sie benötigen, um präzise und saubere Schnitte zu erzielen. Alle Produkte sind langlebig und robust, damit Sie auch bei anspruchsvollen Projekten zuverlässig arbeiten können."
+                    },
+                    {
+                        "title": "Prüfwerkzeuge & Messwerkzeuge",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/pruefwerkzeuge-messwerkzeuge/\" title=\"Prüfwerkzeuge & Messwerkzeuge\">Prüfwerkzeuge & Messwerkzeuge</a> finden Sie eine große Auswahl an Werkzeugen, die Ihnen bei der Durchführung präziser Messungen und Überprüfungen im Handwerk unterstützen. Hier finden Sie alles, von einfachen Messgeräten wie Maßbändern und Winkelmessern bis hin zu elektronischen Messinstrumenten wie Laser-Entfernungsmessern. Wir bieten Ihnen nur hochwertige Produkte von namhaften Herstellern zu fairen Preisen an."
+                    },
+                    {
+                        "title": "Schlüssel & Abzieher",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/schluessel-abzieher/\" title=\"Schlüssel & Abzieher\">Schlüssel & Abzieher</a> finden Sie eine Vielzahl an Werkzeugen, die Ihnen bei Reparatur- und Montagearbeiten im Handwerk unterstützen. Hier finden Sie alles, von einfachen Schraubenschlüsseln und Ringschlüsseln bis hin zu Spezialwerkzeugen wie Nuss- und Stecknüssen. Wir bieten Ihnen nur hochwertige Produkte von namhaften Herstellern zu fairen Preisen an."
+                    },
+                    {
+                        "title": "Zangen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/zangen/\" title=\"Zangen\">Zangen</a> finden Sie eine große Auswahl an hochwertigen Zangen für verschiedene Anwendungen im Handwerk. Hier finden Sie alles, von einfachen Seitenschneiderzangen und Kombizangen bis hin zu Spezialzangen wie Rundzangen und Kabelzangen. Wir bieten Ihnen nur Produkte von namhaften Herstellern zu fairen Preisen an, damit Sie immer das richtige Werkzeug für Ihre Aufgaben zur Verfügung haben."
+                    },
+                    {
+                        "title": "Hobel & Beitel",
+                        "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/hobel-beitel/\" title=\"Hobel & Beitel\">Hobel & Beitel</a>n im Online-Shop von Handwerkzeugs.de. Ob Sie professionelle Handwerker oder Heimwerker sind, bei uns finden Sie das passende Werkzeug für jedes Projekt. Unsere Hobel & Beitel sind hochwertig und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Spannwerkzeuge",
+                        "text": "In unserem Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/spannwerkzeuge/\" title=\"Spannwerkzeuge\">Spannwerkzeuge</a>n für alle Ihre Bedürfnisse. Ob Sie einen Schraubstock, eine Spannzange oder eine andere Art von Spannwerkzeug benötigen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unsere Spannwerkzeuge sind robust und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Äxte & Hämmer",
+                        "text": "Entdecken Sie eine große Auswahl an Äxten & Hämmern im Online-Shop von Handwerkzeugs.de. Unsere <a href=\"/kategorie/aexte-haemmer/\" title=\"Äxte & Hämmer\">Äxte & Hämmer</a> sind hochwertig und langlebig, so dass Sie immer das beste Ergebnis erzielen können. Ob Sie eine Axt für das Holzhacken oder einen Hammer für Ihr Heimwerkerprojekt benötigen, bei uns finden Sie das passende Werkzeug. Stöbern Sie jetzt in unserem Angebot und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Nageleisen & Meißel",
+                        "text": "<a href=\"/kategorie/nageleisen-meissel/\" title=\"Nageleisen & Meissel\">Nageleisen & Meissel</a> sind wichtige Werkzeuge für Holzarbeiten und das Bauen von Möbeln. Unsere Auswahl an Nageleisen & Meißeln bietet Ihnen hochwertige und langlebige Werkzeuge, die Sie bei Ihren Projekten unterstützen werden. Stöbern Sie durch unsere Produkte und finden Sie das perfekte Nageleisen & Meißel für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Schraubenzieher & Schraubendreher",
+                        "text": "<a href=\"/kategorie/schraubenzieher-schraubendreher/\" title=\"Schraubenzieher & Schraubendreher\">Schraubenzieher & Schraubendreher</a> sind unverzichtbare Werkzeuge für jeden Heimwerker oder Handwerker. Unsere Auswahl an Schraubenziehern & Schraubendrehern bietet Ihnen eine große Vielfalt an Größen und Formen, um jedes Schraubengewinde zu erreichen. Entdecken Sie die hochwertigen und langlebigen Schraubenzieher & Schraubendreher in unserem Shop."
+                    },
+                    {
+                        "title": "Schmierstoffe",
+                        "text": "<a href=\"/kategorie/schmierstoffe/\" title=\"Schmierstoffe\">Schmierstoffe</a> sind ein wichtiger Bestandteil jeder Werkstatt. Sie verhindern Reibung und Abnutzung von Werkzeugen und Maschinen. In unserem Shop finden Sie eine große Auswahl an Schmierstoffen, von Ölen bis hin zu Fetten und Sprays. Entdecken Sie die besten Schmierstoffe für Ihre Bedürfnisse und halten Sie Ihre Werkzeuge und Maschinen in Top-Zustand."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Online Shop für Handwerkzeuge",
+            "metaDescription": "Handwerkzeugen wie: Schraubenzieher, Hammer, Axt, Säge, Messer, Spachtel, Zange etc. bequem und günstig bestellen - schnelle Lieferung.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Handwerkzeuge | Top Marken",
+            "metaDescription": "Hier finden Sie eine Auflistung unserer Top Marken wie: BOSCH Professional, Proxxon, OBI, LUX-Tools uvm. | hohe Qualität für langanhaltende Freude am Produkt.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Online Shop für Handwerkzeuge",
-      "metaDescription": "Handwerkzeugen wie: Schraubenzieher, Hammer, Axt, Säge, Messer, Spachtel, Zange etc. bequem und günstig bestellen - schnelle Lieferung.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Handwerkzeuge | Top Marken",
-      "metaDescription": "Hier finden Sie eine Auflistung unserer Top Marken wie: BOSCH Professional, Proxxon, OBI, LUX-Tools uvm. | hohe Qualität für langanhaltende Freude am Produkt.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT günstig kaufen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - ein Top Produkt zum Top Preis. Finden Sie bei uns weitere tolle Produkte in der Kategorie $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5415039",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - ein Top Produkt zum Top Preis. Finden Sie bei uns weitere tolle Produkte in der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "LUX Glättekelle 8 mm x 8 mm Classic von LUX-TOOLS",
-              "text": "<p class=\"justify\">Die LUX Glättekelle 8 mm x 8 mm Classic aus dem Hause LUX-TOOLS ist ein unverzichtbares Werkzeug für alle, die sich im Bereich Maurer-, Fliesenleger- & Verlegewerkzeuge betätigen. Mit der LUX Glättekelle gelingt das Auftragen von Fliesen- und Fußbodenklebern mühelos und professionell. Die Kelle zeichnet sich durch ihre hohe Qualität und ihre Langlebigkeit aus, die das Arbeiten erleichtern und optimieren.</p><p class=\"justify\">Die LUX Glättekelle ist mit einem ergonomischen Holzgriff ausgestattet, der für eine angenehme Handhabung sorgt, selbst bei längerem Arbeiten. Durch ihre Größe von 8 mm x 8 mm ermöglicht sie nicht nur das gleichmäßige Auftragen und Verteilen von Klebern, sondern auch das präzise Bearbeiten von Ecken und Kanten. Die Kelle ist aus robustem und widerstandsfähigem Material gefertigt, das für eine hohe Belastbarkeit und eine lange Lebensdauer des Werkzeugs sorgt.</p><p class=\"justify\">Mit der LUX Glättekelle 8 mm x 8 mm Classic können sowohl Heimwerker als auch Profis verschiedene Arbeiten im Bereich Technik und Handwerk problemlos durchführen. Die Kelle eignet sich insbesondere für Maurer-, Fliesenleger- und Verlegearbeiten, macht aber auch bei anderen Aufgaben eine gute Figur. Die hohe Kundenzufriedenheit spiegelt sich in den zahlreichen positiven Bewertungen und einer beeindruckenden Gesamtbewertung von 4 Sternen wider. Bei der Anschaffung dieser Glättekelle können Sie sich auf ein hochwertiges und zuverlässiges Produkt freuen.</p><p class=\"justify\">Für all jene, die auf der Suche nach einem zuverlässigen Werkzeug für Maurer-, Fliesenleger- und Verlegearbeiten sind, ist die LUX Glättekelle 8 mm x 8 mm Classic von LUX-TOOLS genau das Richtige. Lassen Sie sich von der Qualität und Präzision dieses Werkzeugs überzeugen und erleichtern Sie sich Ihre Handwerksarbeiten mit diesem nützlichen Helfer.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2901858",
-        "seo": {
-          "texts": [
-            {
-              "title": "Proxxon Drehmomentschlüssel MicroClick MC 30 6 mm (1/4\\\") 6 - 30 Nm",
-              "text": "<p class=\"justify\">Der Proxxon Drehmomentschlüssel MicroClick MC 30 ist ein hochwertiges Werkzeug der Marke Proxxon, das für präzises Anziehen von Schrauben und Muttern im Bereich von 6 bis 30 Nm ausgelegt ist. Durch seine hohe Qualität und Genauigkeit ist dieser Drehmomentschlüssel ideal für empfindliche Arbeiten, wie z. B. bei Leichtmetallen oder beim Radwechsel am Fahrzeug, geeignet.</p><p class=\"justify\">Der MicroClick MC 30 überzeugt durch sein zweifach vernickeltes und mattverchromtes Design, das optimalen Schutz vor Rost bietet. Mit einem ergonomischen Griff liegt der Schlüssel gut in der Hand und ermöglicht ein angenehmes Arbeiten. Zudem ist der Ratschenmechanismus sehr praktisch, da er das Arbeiten auf engem Raum vereinfacht.</p><p class=\"justify\">Die Genauigkeit des Proxxon Drehmomentschlüssels liegt innerhalb von ±3 Prozent nach ISO 6789 und ist somit ideal für anspruchsvolle Arbeiten. Die vorgewählten Drehmomente können anhand der leicht ablesbaren Analoganzeige überprüft werden, während der Schlüssel Stück für Stück kalibriert und endgeprüft ist, um die hohen Qualitätsstandards zu gewährleisten.</p><p class=\"justify\">Der Entriegelungsmechanismus des Drehmomentschlüssels ist benutzerfreundlich, indem der Aufsatz einfach auf Knopfdruck gelöst werden kann. Eine automatische Kurzauslösung stellt sicher, dass der Schlüssel beim Erreichen des vorgewählten Drehmoments ein hör- und fühlbares Klicken abgibt. Der ergonomische Griff und die Gesamtlänge von 310 mm ermöglichen ein präzises Auslösen.</p><p class=\"justify\">Besonders praktisch ist die Mikro-Skala zum Feinjustieren des Drehmoments. Durch das Drehen des gerändelten Rings kann das gewünschte Drehmoment eingestellt werden. Der Ratschenmechanismus erlaubt das Anziehen und Lösen von Schrauben und Muttern ohne Absetzen der Ratsche. Jeder Proxxon Drehmomentschlüssel MicroClick MC 30 ist ein Unikat mit eigener Seriennummer und ideal für Profis oder Heimwerker, die Wert auf präzise, zuverlässige und langlebige Werkzeuge legen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5268883",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX Schraubzwinge Druckguss 200 mm x 50 mm Comfort von LUX-TOOLS",
-              "text": "<p class=\"justify\">Die LUX Schraubzwinge Druckguss 200 mm x 50 mm Comfort ist ein hochwertiges Spannwerkzeug aus dem Hause LUX-TOOLS. Dieses erstklassige Produkt eignet sich hervorragend für Arbeiten im Bereich Handwerk und Heimwerken. Mit der LUX Schraubzwinge Druckguss können Sie Ihre Werkstücke präzise und stabil fixieren und somit effektiv und sicher arbeiten.</p><p class=\"justify\">Die Schraubzwinge besteht aus hochwertigem Zinkdruckguss und ist mit einem ergonomischen 2-Komponenten Griff ausgestattet. Diese Kombination sorgt für eine ausgezeichnete Handhabung und erhöht deutlich den Komfort bei der Arbeit. Die verzinkte Schiene und Spindel sind besonders widerstandsfähig gegen Rost und garantieren eine lange Lebensdauer des Produkts.</p><p class=\"justify\">Ein weiteres Highlight der LUX Schraubzwinge Druckguss 200 mm x 50  mm Comfort ist die bewegliche Druckplatte mit Kunststoff-Schutzkappen. Diese sorgen für einen sicheren Halt ohne die Oberfläche Ihrer Werkstücke zu beschädigen. Durch die hervorragende Verarbeitung und die robuste Konstruktion ist diese Schraubzwinge besonders zuverlässig und macht sie zu einem unverzichtbaren Werkzeug für jeden Profi- und Hobbyhandwerker.</p><p class=\"justify\">Mit einer Klemmweite von 200 mm und einer Klemmtiefe von 50 mm bietet die LUX Schraubzwinge Druckguss Comfort genügend Spielraum für eine Vielzahl von Anwendungen. Die hohe Kundenzufriedenheit spiegelt sich in der herausragenden Bewertung von 5 Sternen und zahlreichen positiven Reviews wider. In der Kategorie Spannwerkzeuge ist die LUX Schraubzwinge Druckguss 200 mm x 50 mm Comfort eine exzellente Wahl für kompromisslose Qualität und Langlebigkeit.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | günstig online kaufen",
-    "defaultMetaDescription": "$KATEGORIE - Handwerkzeuge für jeden Anwendungsbereich. Viele tolle Produkte aus Kategorien wie: $KATEGORIE, Schraubenzieher, Hammer, Axt, Säge, Messer, uvm.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5415039",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX Glättekelle 8 mm x 8 mm Classic von LUX-TOOLS",
+                            "text": "<p class=\"justify\">Die LUX Glättekelle 8 mm x 8 mm Classic aus dem Hause LUX-TOOLS ist ein unverzichtbares Werkzeug für alle, die sich im Bereich Maurer-, Fliesenleger- & Verlegewerkzeuge betätigen. Mit der LUX Glättekelle gelingt das Auftragen von Fliesen- und Fußbodenklebern mühelos und professionell. Die Kelle zeichnet sich durch ihre hohe Qualität und ihre Langlebigkeit aus, die das Arbeiten erleichtern und optimieren.</p><p class=\"justify\">Die LUX Glättekelle ist mit einem ergonomischen Holzgriff ausgestattet, der für eine angenehme Handhabung sorgt, selbst bei längerem Arbeiten. Durch ihre Größe von 8 mm x 8 mm ermöglicht sie nicht nur das gleichmäßige Auftragen und Verteilen von Klebern, sondern auch das präzise Bearbeiten von Ecken und Kanten. Die Kelle ist aus robustem und widerstandsfähigem Material gefertigt, das für eine hohe Belastbarkeit und eine lange Lebensdauer des Werkzeugs sorgt.</p><p class=\"justify\">Mit der LUX Glättekelle 8 mm x 8 mm Classic können sowohl Heimwerker als auch Profis verschiedene Arbeiten im Bereich Technik und Handwerk problemlos durchführen. Die Kelle eignet sich insbesondere für Maurer-, Fliesenleger- und Verlegearbeiten, macht aber auch bei anderen Aufgaben eine gute Figur. Die hohe Kundenzufriedenheit spiegelt sich in den zahlreichen positiven Bewertungen und einer beeindruckenden Gesamtbewertung von 4 Sternen wider. Bei der Anschaffung dieser Glättekelle können Sie sich auf ein hochwertiges und zuverlässiges Produkt freuen.</p><p class=\"justify\">Für all jene, die auf der Suche nach einem zuverlässigen Werkzeug für Maurer-, Fliesenleger- und Verlegearbeiten sind, ist die LUX Glättekelle 8 mm x 8 mm Classic von LUX-TOOLS genau das Richtige. Lassen Sie sich von der Qualität und Präzision dieses Werkzeugs überzeugen und erleichtern Sie sich Ihre Handwerksarbeiten mit diesem nützlichen Helfer.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2901858",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Proxxon Drehmomentschlüssel MicroClick MC 30 6 mm (1/4\\\") 6 - 30 Nm",
+                            "text": "<p class=\"justify\">Der Proxxon Drehmomentschlüssel MicroClick MC 30 ist ein hochwertiges Werkzeug der Marke Proxxon, das für präzises Anziehen von Schrauben und Muttern im Bereich von 6 bis 30 Nm ausgelegt ist. Durch seine hohe Qualität und Genauigkeit ist dieser Drehmomentschlüssel ideal für empfindliche Arbeiten, wie z. B. bei Leichtmetallen oder beim Radwechsel am Fahrzeug, geeignet.</p><p class=\"justify\">Der MicroClick MC 30 überzeugt durch sein zweifach vernickeltes und mattverchromtes Design, das optimalen Schutz vor Rost bietet. Mit einem ergonomischen Griff liegt der Schlüssel gut in der Hand und ermöglicht ein angenehmes Arbeiten. Zudem ist der Ratschenmechanismus sehr praktisch, da er das Arbeiten auf engem Raum vereinfacht.</p><p class=\"justify\">Die Genauigkeit des Proxxon Drehmomentschlüssels liegt innerhalb von ±3 Prozent nach ISO 6789 und ist somit ideal für anspruchsvolle Arbeiten. Die vorgewählten Drehmomente können anhand der leicht ablesbaren Analoganzeige überprüft werden, während der Schlüssel Stück für Stück kalibriert und endgeprüft ist, um die hohen Qualitätsstandards zu gewährleisten.</p><p class=\"justify\">Der Entriegelungsmechanismus des Drehmomentschlüssels ist benutzerfreundlich, indem der Aufsatz einfach auf Knopfdruck gelöst werden kann. Eine automatische Kurzauslösung stellt sicher, dass der Schlüssel beim Erreichen des vorgewählten Drehmoments ein hör- und fühlbares Klicken abgibt. Der ergonomische Griff und die Gesamtlänge von 310 mm ermöglichen ein präzises Auslösen.</p><p class=\"justify\">Besonders praktisch ist die Mikro-Skala zum Feinjustieren des Drehmoments. Durch das Drehen des gerändelten Rings kann das gewünschte Drehmoment eingestellt werden. Der Ratschenmechanismus erlaubt das Anziehen und Lösen von Schrauben und Muttern ohne Absetzen der Ratsche. Jeder Proxxon Drehmomentschlüssel MicroClick MC 30 ist ein Unikat mit eigener Seriennummer und ideal für Profis oder Heimwerker, die Wert auf präzise, zuverlässige und langlebige Werkzeuge legen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5268883",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX Schraubzwinge Druckguss 200 mm x 50 mm Comfort von LUX-TOOLS",
+                            "text": "<p class=\"justify\">Die LUX Schraubzwinge Druckguss 200 mm x 50 mm Comfort ist ein hochwertiges Spannwerkzeug aus dem Hause LUX-TOOLS. Dieses erstklassige Produkt eignet sich hervorragend für Arbeiten im Bereich Handwerk und Heimwerken. Mit der LUX Schraubzwinge Druckguss können Sie Ihre Werkstücke präzise und stabil fixieren und somit effektiv und sicher arbeiten.</p><p class=\"justify\">Die Schraubzwinge besteht aus hochwertigem Zinkdruckguss und ist mit einem ergonomischen 2-Komponenten Griff ausgestattet. Diese Kombination sorgt für eine ausgezeichnete Handhabung und erhöht deutlich den Komfort bei der Arbeit. Die verzinkte Schiene und Spindel sind besonders widerstandsfähig gegen Rost und garantieren eine lange Lebensdauer des Produkts.</p><p class=\"justify\">Ein weiteres Highlight der LUX Schraubzwinge Druckguss 200 mm x 50  mm Comfort ist die bewegliche Druckplatte mit Kunststoff-Schutzkappen. Diese sorgen für einen sicheren Halt ohne die Oberfläche Ihrer Werkstücke zu beschädigen. Durch die hervorragende Verarbeitung und die robuste Konstruktion ist diese Schraubzwinge besonders zuverlässig und macht sie zu einem unverzichtbaren Werkzeug für jeden Profi- und Hobbyhandwerker.</p><p class=\"justify\">Mit einer Klemmweite von 200 mm und einer Klemmtiefe von 50 mm bietet die LUX Schraubzwinge Druckguss Comfort genügend Spielraum für eine Vielzahl von Anwendungen. Die hohe Kundenzufriedenheit spiegelt sich in der herausragenden Bewertung von 5 Sternen und zahlreichen positiven Reviews wider. In der Kategorie Spannwerkzeuge ist die LUX Schraubzwinge Druckguss 200 mm x 50 mm Comfort eine exzellente Wahl für kompromisslose Qualität und Langlebigkeit.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | günstig online kaufen",
+        "defaultMetaDescription": "$KATEGORIE - Handwerkzeuge für jeden Anwendungsbereich. Viele tolle Produkte aus Kategorien wie: $KATEGORIE, Schraubenzieher, Hammer, Axt, Säge, Messer, uvm.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Handwerkzeug von $HERSTELLER",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Handwerkzeugen. Produkte mit hoher Qualität steigern die Freude bei der Arbeit.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Handwerkzeuge",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Handwerkzeuge Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Handwerkzeuge Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Handwerkzeug von $HERSTELLER",
-    "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Handwerkzeugen. Produkte mit hoher Qualität steigern die Freude bei der Arbeit.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Handwerkzeuge",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Handwerkzeuge Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Handwerkzeuge Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
